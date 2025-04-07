@@ -1,0 +1,8 @@
+2025-04-07 14:55:46 : Network check successful.
+2025-04-07 14:57:08 : Network check successful.
+2025-04-07 14:57:35 : Network check successful.
+2025-04-07 14:57:42 : Network check successful.
+2025-04-07 15:02:09 : ERROR - The process cannot access the file 'C:\IT-network\Reports\Network-Report.csv' because it is being used by another process.
+2025-04-07 15:03:48 : Network check successful.
+2025-04-07 15:04:20 : Network check successful.
+2025-04-07 15:04:22 : Network check successful.
