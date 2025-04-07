@@ -1,8 +1,1 @@
-"DateTime","HostName","UserName","IPAddress","DefaultGateway","DNSServer","InternetStatus"
-"2025-04-07 14:55:46","SRINI","B Srini","System.Object[]","192.168.227.5","fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3, 192.168.227.5, fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3","Online"
-"2025-04-07 14:57:08","SRINI","B Srini","System.Object[]","192.168.227.5","fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3, 192.168.227.5, fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3","Online"
-"2025-04-07 14:57:35","SRINI","B Srini","System.Object[]","192.168.227.5","fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3, 192.168.227.5, fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3","Online"
-"2025-04-07 14:57:42","SRINI","B Srini","System.Object[]","192.168.227.5","fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3, 192.168.227.5, fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3","Online"
-"2025-04-07 15:03:48","SRINI","B Srini","System.Object[]","192.168.227.5","fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3, 192.168.227.5, fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3","Online"
-"2025-04-07 15:04:20","SRINI","B Srini","System.Object[]","192.168.227.5","fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3, 192.168.227.5, fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3","Offline"
-"2025-04-07 15:04:22","SRINI","B Srini","System.Object[]","192.168.227.5","fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3, 192.168.227.5, fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3","Offline"
+
